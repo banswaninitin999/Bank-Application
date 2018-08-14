@@ -1,0 +1,5 @@
+/Users/sumitabhichandani/Desktop/fwd/obj/Debug/Bank Application.csprojResolveAssemblyReference.cache
+/Users/sumitabhichandani/Desktop/fwd/obj/Debug/Bank_Application.BankServices.resources
+/Users/sumitabhichandani/Desktop/fwd/obj/Debug/Bank_Application.Customer.resources
+/Users/sumitabhichandani/Desktop/fwd/obj/Debug/Bank Application.csproj.GenerateResource.cache
+/Users/sumitabhichandani/Desktop/fwd/obj/Debug/Bank Application.csproj.CoreCompileInputs.cache
